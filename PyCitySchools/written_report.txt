@@ -1,0 +1,5 @@
+Written Report
+
+a. The analysis consisted of combining existing .csv tables which contained student data and a look up table for school information. The tables were concatenated, and analysis was performed on the collective statistics of each school. Summary statistics (i.e., mean) of the students' performance were established along various axes, including whether the school was part of the district or a charter, and its budget / per-capita budget.
+
+b. Based on the DataFrame 'type_summary', the Charter schools are considerably better performing than the District schools. Their overall passing rate, as well as individual reading and math rates, are much higher at ~90%, vs District schools' lower rates in the 50s - 60s. The district spending rates are not much lower than those for charter schools, which means we can't definitively say that the budget has caused the increased passing rate. This may be due to the charter schools having better facilities or smaller classes.
